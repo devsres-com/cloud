@@ -1,2 +1,2 @@
 # cloud
-A journey through the cloud
+A journey through the cloud.
